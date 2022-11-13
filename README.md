@@ -2,7 +2,7 @@
 
 ### Seja bem-vindo ao meu Portfólio Web em processo de construção! 🚧
 
-Em breve estarei postando projetos, desafios e vários outros trabalhos e aplicações que estou aprendendo desenvolver como Estudande de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket:
+Em breve estarei postando projetos, desafios e vários outros trabalhos e aplicações que estou aprendendo desenvolver como Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) :rocket:
 
 ##
 <div align="center">
