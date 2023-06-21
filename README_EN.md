@@ -4,7 +4,7 @@
 
 Soon I'll be posting projects, challenges and several other jobs and applications that I'm learning to develop as a Web Development Student at [Trybe](https://www.betrybe.com/) 
 
-[<h2>👉Back to home page👈</h2>](https://github.com/PFonsecaFV)
+## [👉 Back to home page 👈](https://github.com/PFonsecaFV)
 
 ##
 <div align="center">
