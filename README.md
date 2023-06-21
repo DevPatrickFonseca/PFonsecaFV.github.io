@@ -4,7 +4,7 @@
 
 Em breve estarei postando projetos, desafios e vários outros trabalhos e aplicações que estou aprendendo desenvolver como Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
 
-[<h2>👉Voltar para página inicial👈</h2>](https://github.com/PFonsecaFV)
+## [👉Voltar para página inicial👈](https://github.com/PFonsecaFV)
 
 ##
 <div align="center">
