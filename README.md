@@ -14,7 +14,7 @@ Em breve estarei postando projetos, desafios e vários outros trabalhos e aplica
   <div align="left" style="display: inline_block">
     <div>
       <h3>Projetos:</h3>
-        <li>🟢 Atualizando... </li>
+        <li>🟢 [React Testing Library](https://github.com/PFonsecaFV/project-react-testing-library) </li>
         <li>🟢 Atualizando... </li>
         <li>🟢 Atualizando... </li>
     </div>
