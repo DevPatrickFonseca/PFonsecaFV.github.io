@@ -8,15 +8,15 @@
 
 # Projects:
 
-#### 🟢 [Playground Functions](https://github.com/PFonsecaFV?tab=repositories#:~:text=project%2Dplayground%2Dfunctions) </br>
-#### 🟢 [JavaScript Unit Tests](https://github.com/PFonsecaFV/project-js-unit-tests) </br>
-#### 🟢 [Shopping Cart](https://github.com/PFonsecaFV/project-shopping-cart) </br>
-#### 🟢 [Solar System ](https://github.com/PFonsecaFV/project-solar-system) </br>
-#### 🟢 [React Testing Library](https://github.com/PFonsecaFV/project-react-testing-library) </br>
-#### 🟢 [Trybewallet](https://github.com/PFonsecaFV/project-trybewallet) </br>
-#### 🟢 [Docker To Do List](https://github.com/PFonsecaFV/project-docker-todo-list) </br>
-#### 🟢 [MySQL All for One](https://github.com/PFonsecaFV/project-mysql-all-for-one) </br>
-#### 🟢 [MySQL One for All](https://github.com/PFonsecaFV/project-mysql-one-for-all) </br>
-#### 🟢 [Blogs Api](https://github.com/PFonsecaFV/project-blogs-api) </br>
+#### 🟢 [Playground Functions](https://github.com/PFonsecaFV?tab=repositories#:~:text=project%2Dplayground%2Dfunctions)
+#### 🟢 [JavaScript Unit Tests](https://github.com/PFonsecaFV/project-js-unit-tests)
+#### 🟢 [Shopping Cart](https://github.com/PFonsecaFV/project-shopping-cart)
+#### 🟢 [Solar System ](https://github.com/PFonsecaFV/project-solar-system)
+#### 🟢 [React Testing Library](https://github.com/PFonsecaFV/project-react-testing-library)
+#### 🟢 [Trybewallet](https://github.com/PFonsecaFV/project-trybewallet)
+#### 🟢 [Docker To Do List](https://github.com/PFonsecaFV/project-docker-todo-list)
+#### 🟢 [MySQL All for One](https://github.com/PFonsecaFV/project-mysql-all-for-one)
+#### 🟢 [MySQL One for All](https://github.com/PFonsecaFV/project-mysql-one-for-all)
+#### 🟢 [Blogs Api](https://github.com/PFonsecaFV/project-blogs-api)
 
 # [👉Back to Home👈](https://github.com/PFonsecaFV)
