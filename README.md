@@ -8,7 +8,7 @@
  
 # Projetos:
 
-#### 🟢 [Playground Functions](https://github.com/PFonsecaFV?tab=repositories#:~:text=project%2Dplayground%2Dfunctions)
+#### 🟢 [Playground Functions](https://github.com/PFonsecaFV/project-playground-functions)
 #### 🟢 [JavaScript Testes Unitários](https://github.com/PFonsecaFV/project-js-unit-tests)
 #### 🟢 [Carrinho de Compras](https://github.com/PFonsecaFV/project-shopping-cart)
 #### 🟢 [Solar System](https://github.com/PFonsecaFV/project-solar-system)
