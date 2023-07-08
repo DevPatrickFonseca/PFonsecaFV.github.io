@@ -1,42 +1,20 @@
 <h2>Olá tudo bom! 👋🤓 (<a href="https://github.com/PFonsecaFV/PFonsecaFV.github.io/blob/main/README_EN.md">English Version</a>)</h2> 
 
-### Seja bem-vindo ao meu Portfólio Web em processo de construção! 🚧
+### Boas vindas ao meu Portfólio Web em processo de construção! 🚧
 
-Em breve estarei postando projetos, desafios e vários outros trabalhos e aplicações que estou aprendendo desenvolver como Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 🚀
+## 🚧READMEs🚧 Sendo implementados
+  
+# Projetos:
 
-## [👉Voltar para página inicial👈](https://github.com/PFonsecaFV)
+#### 🟢 [Playground Functions](https://github.com/PFonsecaFV?tab=repositories#:~:text=project%2Dplayground%2Dfunctions) </br>
+#### 🟢 [JavaScript Unit Tests](https://github.com/PFonsecaFV/project-js-unit-tests) </br>
+#### 🟢 [Shopping Cart](https://github.com/PFonsecaFV/project-shopping-cart) </br>
+#### 🟢 [Solar System ](https://github.com/PFonsecaFV/project-solar-system) </br>
+#### 🟢 [React Testing Library](https://github.com/PFonsecaFV/project-react-testing-library) </br>
+#### 🟢 [Trybewallet](https://github.com/PFonsecaFV/project-trybewallet) </br>
+#### 🟢 [Docker To Do List](https://github.com/PFonsecaFV/project-docker-todo-list) </br>
+#### 🟢 [MySQL All for One](https://github.com/PFonsecaFV/project-mysql-all-for-one) </br>
+#### 🟢 [MySQL One for All](https://github.com/PFonsecaFV/project-mysql-one-for-all) </br>
+#### 🟢 [Blogs Api](https://github.com/PFonsecaFV/project-blogs-api) </br>
 
-##
-<div align="center">
-<a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/pc_cod_pfonsecafv.gif"/></a>
-
-
-  <div align="left" style="display: inline_block">
-    <div>
-      <h3>Projetos:</h3>
-        <li>🟢 [React Testing Library](https://github.com/PFonsecaFV/project-react-testing-library) </li>
-        <li>🟢 Atualizando... </li>
-        <li>🟢 Atualizando... </li>
-    </div>
-    <div>
-      <h3>Desafios:</h3>
-        <li>🟡 Atualizando... </li>
-        <li>🟡 Atualizando... </li>
-        <li>🟡 Atualizando... </li>
-    </div>
-    <div>
-      <h3>Trabalhos:</h3>
-        <li>🔴 Atualizando... </li>
-        <li>🔴 Atualizando... </li>
-        <li>🔴 Atualizando... </li>
-    </div>
-    <div>
-      <h3>Aplicações:</h3>
-        <li>🔵 Atualizando... </li>
-        <li>🔵 Atualizando... </li>
-        <li>🔵 Atualizando... </li>
-    </div>
-  </div>
-</div>
-
-##
+# [👉Voltar para página inicial👈](https://github.com/PFonsecaFV)
